@@ -43,6 +43,9 @@ private void dynamicDotNetTwain_OnFrameCapture(Dynamsoft.DotNet.TWAIN.Interface.
 }
 ```
 
+## Blog
+[Streaming Webcam Video with Dynamic .NET TWAIN][3]
+
 [1]:http://www.dynamsoft.com/Products/.Net-TWAIN-Scanner.aspx
 [2]:http://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx
-
+[3]:http://www.codepool.biz/dotnet-webcam-video-stream-viewer.html
